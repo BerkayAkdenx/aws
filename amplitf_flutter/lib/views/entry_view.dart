@@ -10,6 +10,6 @@ class EntryView extends StatefulWidget {
 class _EntryViewState extends State<EntryView> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return const Scaffold();
   }
 }
